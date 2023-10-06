@@ -16,8 +16,8 @@ CREATE TABLE employd (
   salary NUMBER
 );
 select * from employd;
-INSERT INTO employd VALUES (1, 'John Doe', 'Sales', 100000);
-INSERT INTO employd VALUES (2, 'Jane Doe', 'Marketing', 120000);
+INSERT INTO employd VALUES (1, 'thala', 'Sales', 100000);
+INSERT INTO employd VALUES (2, 'thlapathy', 'Marketing', 120000);
 ```
 ### PLSQL Cursor code
 ```
@@ -44,6 +44,7 @@ END;
 /
 ```
 ### Output:
-![image](https://github.com/Brindha77/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/118889143/ac2f440b-2f4c-420e-9e85-95df1232cf59)
+![ex 06 ](https://github.com/lokesh-khanna/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119606216/d84185bc-1445-40b8-9418-b61b777e33c4)
+
 ### Result:
 Thus this program executed successfully.
